@@ -1,7 +1,7 @@
 # TODO: import the modules needed to make game_interface run.
 from strategy import *
 from interface_set_up import *
-from typing import Any, Callable
+from typing import Any, Callable, List, Dict, Tuple
 
 # TODO: Replace None with the corresponding class name for your games.
 # 's' should map to your implementation of Subtract Square, and 'c' should map
